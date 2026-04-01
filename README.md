@@ -18,4 +18,4 @@ I graduated in mechatronics engineering and enjoy building projects that sit at 
 
 ---
 
-Feel free to explore my repos — most are personal projects I build for fun or to solve a problem I ran into.
+Feel free to explore my repos: most are personal projects I build for fun or to solve a problem I ran into.
