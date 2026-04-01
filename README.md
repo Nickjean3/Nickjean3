@@ -6,7 +6,7 @@ Mechatronics engineer — where hardware and software meet.
 
 ## About me
 
-I graduated in mechatronics engineering and enjoy building projects that sit at the intersection of software and physical systems. Whether it's writing logic for embedded hardware or scripting something to make life easier, I like making things that actually *do* something in the real world.
+I graduated in mechatronics engineering and enjoy building projects that sit at the intersection of software and physical systems. Whether it's writing logic for embedded hardware or scripting something to make life easier. I like messing around with my RaspberryPi on my down time to make simple games, or try to create control systems solutions to practice my skills.
 
 ---
 
