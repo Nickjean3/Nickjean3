@@ -1,6 +1,6 @@
 # Hi, I'm Nick Jean 👋
 
-Mechatronics engineer — where hardware and software meet.
+I am a Mechatronics engineer, where hardware and software meet.
 
 ---
 
